@@ -4,4 +4,4 @@ CSSについてそもそもCSSとはなにか、なにをするものなのか�
 
 1. [CSSとは](./articles/1.md)
 2. [CSSの書き方](./articles/2.md)
-3. [CSSのboxについて](./articles/3.md)
+3. [HTMLのボックスやレイアウト](./articles/3.md)
